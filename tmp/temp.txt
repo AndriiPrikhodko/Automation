@@ -1,0 +1,8 @@
+//  then(function( webElement ) {
+// }, function(err) {
+//     if (err.state && err.state === 'no such element') {
+//     DriverMod.failure();
+//     } else {
+//        webdriver.promise.rejected(err);
+//     }
+// });
